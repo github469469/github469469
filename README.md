@@ -9,4 +9,4 @@
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: i pend my time to see tech videos
 
--<img src="https://github-readme-stats.vercel.app/api/?username=ashikgaylord&count_private=true&theme=tokyonight&showicons=true">
+-<img src="https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true">
