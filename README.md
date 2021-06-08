@@ -8,4 +8,5 @@
 - 📫 How to reach me: gmail:ashikka74@gmail.com
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: i pend my time to see tech videos
-<img src="src="https://cdn.jasongaylord.com/images/2020/10/28/github-readme-stats-jasongaylord.jpg">
+
+-<img src="https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true">
