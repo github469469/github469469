@@ -9,5 +9,5 @@
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: i pend my time to see tech videos
 
-<!-- -<img src="https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true"> -->
-<img src="https://camo.githubusercontent.com/" alt=" github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=github469469&amp;show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;" align="middle">
+-<img src="https://github-readme-stats.vercel.app/api/?username=github469469&count_private=true&theme=tokyonight&showicons=true">
+<!-- <img src="https://camo.githubusercontent.com/" alt=" github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=github469469&amp;show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;" align="middle"> -->
